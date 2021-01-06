@@ -19,7 +19,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4ff3d387-c66d-4af5-a097-f302002b2b48" name="Default Changelist" comment="" />
+    <list default="true" id="4ff3d387-c66d-4af5-a097-f302002b2b48" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -47,6 +49,7 @@
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="GO_FMT" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="ask.go.tool.to.install.GoGolangCILintTaskConsumer" value="true" />
@@ -99,27 +102,31 @@
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="complete" />
+    <option name="LAST_COMMIT_MESSAGE" value="complete" />
+  </component>
   <component name="WindowStateProjectService">
     <state x="625" y="596" key="EditFileWatcherDialog" timestamp="1609896504283">
       <screen x="0" y="23" width="3840" height="1577" />
     </state>
     <state x="625" y="596" key="EditFileWatcherDialog/0.23.3840.1577@0.23.3840.1577" timestamp="1609896504283" />
-    <state width="1878" height="462" key="GridCell.Tab.0.bottom" timestamp="1609898487375">
+    <state width="2518" height="462" key="GridCell.Tab.0.bottom" timestamp="1609898888564">
       <screen x="0" y="23" width="3840" height="1577" />
     </state>
-    <state width="1878" height="462" key="GridCell.Tab.0.bottom/0.23.3840.1577@0.23.3840.1577" timestamp="1609898487375" />
-    <state width="1878" height="462" key="GridCell.Tab.0.center" timestamp="1609898487374">
+    <state width="2518" height="462" key="GridCell.Tab.0.bottom/0.23.3840.1577@0.23.3840.1577" timestamp="1609898888564" />
+    <state width="2518" height="462" key="GridCell.Tab.0.center" timestamp="1609898888563">
       <screen x="0" y="23" width="3840" height="1577" />
     </state>
-    <state width="1878" height="462" key="GridCell.Tab.0.center/0.23.3840.1577@0.23.3840.1577" timestamp="1609898487374" />
-    <state width="1878" height="462" key="GridCell.Tab.0.left" timestamp="1609898487374">
+    <state width="2518" height="462" key="GridCell.Tab.0.center/0.23.3840.1577@0.23.3840.1577" timestamp="1609898888563" />
+    <state width="2518" height="462" key="GridCell.Tab.0.left" timestamp="1609898888562">
       <screen x="0" y="23" width="3840" height="1577" />
     </state>
-    <state width="1878" height="462" key="GridCell.Tab.0.left/0.23.3840.1577@0.23.3840.1577" timestamp="1609898487374" />
-    <state width="1878" height="462" key="GridCell.Tab.0.right" timestamp="1609898487375">
+    <state width="2518" height="462" key="GridCell.Tab.0.left/0.23.3840.1577@0.23.3840.1577" timestamp="1609898888562" />
+    <state width="2518" height="462" key="GridCell.Tab.0.right" timestamp="1609898888563">
       <screen x="0" y="23" width="3840" height="1577" />
     </state>
-    <state width="1878" height="462" key="GridCell.Tab.0.right/0.23.3840.1577@0.23.3840.1577" timestamp="1609898487375" />
+    <state width="2518" height="462" key="GridCell.Tab.0.right/0.23.3840.1577@0.23.3840.1577" timestamp="1609898888563" />
     <state x="469" y="450" key="SettingsEditor" timestamp="1609896599878">
       <screen x="0" y="23" width="3840" height="1577" />
     </state>
