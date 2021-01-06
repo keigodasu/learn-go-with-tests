@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="510be360-d373-4f74-a83c-97040e9013d5" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/hello-world/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/hello-world/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,8 +35,20 @@
     <property name="go.import.settings.migrated" value="true" />
     <property name="go.sdk.automatically.set" value="true" />
     <property name="last_opened_file_path" value="$USER_HOME$" />
+    <property name="settings.editor.selected.configurable" value="watcher.settings" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Go Test.BenchmarkRepeat in github.com/keigodasu/learn-go-with-tests/iteration">
+    <configuration name="BenchmarkRepeat in github.com/keigodasu/learn-go-with-tests/iteration" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="learn-go-with-tests" />
+      <working_directory value="$PROJECT_DIR$/iteration" />
+      <framework value="gobench" />
+      <kind value="PACKAGE" />
+      <package value="github.com/keigodasu/learn-go-with-tests/iteration" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$" />
+      <pattern value="^BenchmarkRepeat$" />
+      <method v="2" />
+    </configuration>
     <configuration name="TestAdder in github.com/keigodasu/learn-go-with-tests/integers" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
       <module name="learn-go-with-tests" />
       <working_directory value="$PROJECT_DIR$/integers" />
@@ -48,8 +60,21 @@
       <pattern value="^TestAdder$" />
       <method v="2" />
     </configuration>
+    <configuration name="TestRepeat in github.com/keigodasu/learn-go-with-tests/iteration" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="learn-go-with-tests" />
+      <working_directory value="$PROJECT_DIR$/iteration" />
+      <framework value="gotest" />
+      <kind value="PACKAGE" />
+      <package value="github.com/keigodasu/learn-go-with-tests/iteration" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$" />
+      <pattern value="^TestRepeat$" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Go Test.BenchmarkRepeat in github.com/keigodasu/learn-go-with-tests/iteration" />
+        <item itemvalue="Go Test.TestRepeat in github.com/keigodasu/learn-go-with-tests/iteration" />
         <item itemvalue="Go Test.TestAdder in github.com/keigodasu/learn-go-with-tests/integers" />
       </list>
     </recent_temporary>
@@ -59,21 +84,29 @@
     <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1878" height="462" key="GridCell.Tab.0.bottom" timestamp="1609907182575">
+    <state x="625" y="596" key="EditFileWatcherDialog" timestamp="1609937374943">
       <screen x="0" y="23" width="3840" height="1577" />
     </state>
-    <state width="1878" height="462" key="GridCell.Tab.0.bottom/0.23.3840.1577@0.23.3840.1577" timestamp="1609907182575" />
-    <state width="1878" height="462" key="GridCell.Tab.0.center" timestamp="1609907182575">
+    <state x="625" y="596" key="EditFileWatcherDialog/0.23.3840.1577@0.23.3840.1577" timestamp="1609937374943" />
+    <state width="1878" height="462" key="GridCell.Tab.0.bottom" timestamp="1609937569287">
       <screen x="0" y="23" width="3840" height="1577" />
     </state>
-    <state width="1878" height="462" key="GridCell.Tab.0.center/0.23.3840.1577@0.23.3840.1577" timestamp="1609907182575" />
-    <state width="1878" height="462" key="GridCell.Tab.0.left" timestamp="1609907182574">
+    <state width="1878" height="462" key="GridCell.Tab.0.bottom/0.23.3840.1577@0.23.3840.1577" timestamp="1609937569287" />
+    <state width="1878" height="462" key="GridCell.Tab.0.center" timestamp="1609937569287">
       <screen x="0" y="23" width="3840" height="1577" />
     </state>
-    <state width="1878" height="462" key="GridCell.Tab.0.left/0.23.3840.1577@0.23.3840.1577" timestamp="1609907182574" />
-    <state width="1878" height="462" key="GridCell.Tab.0.right" timestamp="1609907182575">
+    <state width="1878" height="462" key="GridCell.Tab.0.center/0.23.3840.1577@0.23.3840.1577" timestamp="1609937569287" />
+    <state width="1878" height="462" key="GridCell.Tab.0.left" timestamp="1609937569286">
       <screen x="0" y="23" width="3840" height="1577" />
     </state>
-    <state width="1878" height="462" key="GridCell.Tab.0.right/0.23.3840.1577@0.23.3840.1577" timestamp="1609907182575" />
+    <state width="1878" height="462" key="GridCell.Tab.0.left/0.23.3840.1577@0.23.3840.1577" timestamp="1609937569286" />
+    <state width="1878" height="462" key="GridCell.Tab.0.right" timestamp="1609937569287">
+      <screen x="0" y="23" width="3840" height="1577" />
+    </state>
+    <state width="1878" height="462" key="GridCell.Tab.0.right/0.23.3840.1577@0.23.3840.1577" timestamp="1609937569287" />
+    <state x="469" y="450" key="SettingsEditor" timestamp="1609937376524">
+      <screen x="0" y="23" width="3840" height="1577" />
+    </state>
+    <state x="469" y="450" key="SettingsEditor/0.23.3840.1577@0.23.3840.1577" timestamp="1609937376524" />
   </component>
 </project>
