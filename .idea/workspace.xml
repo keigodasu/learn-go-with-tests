@@ -37,45 +37,69 @@
     <property name="last_opened_file_path" value="$USER_HOME$" />
     <property name="settings.editor.selected.configurable" value="watcher.settings" />
   </component>
-  <component name="RunManager" selected="Go Test.BenchmarkRepeat in github.com/keigodasu/learn-go-with-tests/iteration">
-    <configuration name="BenchmarkRepeat in github.com/keigodasu/learn-go-with-tests/iteration" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Go Test.TestArea in github.com/keigodasu/learn-go-with-tests/structs-methods-interfaces">
+    <configuration name="TestArea in github.com/keigodasu/learn-go-with-tests/structs-methods-interfaces" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
       <module name="learn-go-with-tests" />
-      <working_directory value="$PROJECT_DIR$/iteration" />
-      <framework value="gobench" />
-      <kind value="PACKAGE" />
-      <package value="github.com/keigodasu/learn-go-with-tests/iteration" />
-      <directory value="$PROJECT_DIR$" />
-      <filePath value="$PROJECT_DIR$" />
-      <pattern value="^BenchmarkRepeat$" />
-      <method v="2" />
-    </configuration>
-    <configuration name="TestAdder in github.com/keigodasu/learn-go-with-tests/integers" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
-      <module name="learn-go-with-tests" />
-      <working_directory value="$PROJECT_DIR$/integers" />
+      <working_directory value="$PROJECT_DIR$/structs-methods-interfaces" />
       <framework value="gotest" />
       <kind value="PACKAGE" />
-      <package value="github.com/keigodasu/learn-go-with-tests/integers" />
+      <package value="github.com/keigodasu/learn-go-with-tests/structs-methods-interfaces" />
       <directory value="$PROJECT_DIR$" />
       <filePath value="$PROJECT_DIR$" />
-      <pattern value="^TestAdder$" />
+      <pattern value="^TestArea$" />
       <method v="2" />
     </configuration>
-    <configuration name="TestRepeat in github.com/keigodasu/learn-go-with-tests/iteration" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+    <configuration name="TestArea/circles in github.com/keigodasu/learn-go-with-tests/structs-methods-interfaces" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
       <module name="learn-go-with-tests" />
-      <working_directory value="$PROJECT_DIR$/iteration" />
+      <working_directory value="$PROJECT_DIR$/structs-methods-interfaces" />
       <framework value="gotest" />
       <kind value="PACKAGE" />
-      <package value="github.com/keigodasu/learn-go-with-tests/iteration" />
+      <package value="github.com/keigodasu/learn-go-with-tests/structs-methods-interfaces" />
       <directory value="$PROJECT_DIR$" />
       <filePath value="$PROJECT_DIR$" />
-      <pattern value="^TestRepeat$" />
+      <pattern value="^TestArea$/^circles$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TestPerimeter in github.com/keigodasu/learn-go-with-tests/structs-methods-interfaces" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="learn-go-with-tests" />
+      <working_directory value="$PROJECT_DIR$/structs-methods-interfaces" />
+      <framework value="gotest" />
+      <kind value="PACKAGE" />
+      <package value="github.com/keigodasu/learn-go-with-tests/structs-methods-interfaces" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$" />
+      <pattern value="^TestPerimeter$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TestSumAll in github.com/keigodasu/learn-go-with-tests/arrays-and-slices" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="learn-go-with-tests" />
+      <working_directory value="$PROJECT_DIR$/arrays-and-slices" />
+      <framework value="gotest" />
+      <kind value="PACKAGE" />
+      <package value="github.com/keigodasu/learn-go-with-tests/arrays-and-slices" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$" />
+      <pattern value="^TestSumAll$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TestSumAllTails in github.com/keigodasu/learn-go-with-tests/arrays-and-slices" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="learn-go-with-tests" />
+      <working_directory value="$PROJECT_DIR$/arrays-and-slices" />
+      <framework value="gotest" />
+      <kind value="PACKAGE" />
+      <package value="github.com/keigodasu/learn-go-with-tests/arrays-and-slices" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$" />
+      <pattern value="^TestSumAllTails$" />
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Go Test.BenchmarkRepeat in github.com/keigodasu/learn-go-with-tests/iteration" />
-        <item itemvalue="Go Test.TestRepeat in github.com/keigodasu/learn-go-with-tests/iteration" />
-        <item itemvalue="Go Test.TestAdder in github.com/keigodasu/learn-go-with-tests/integers" />
+        <item itemvalue="Go Test.TestArea in github.com/keigodasu/learn-go-with-tests/structs-methods-interfaces" />
+        <item itemvalue="Go Test.TestArea/circles in github.com/keigodasu/learn-go-with-tests/structs-methods-interfaces" />
+        <item itemvalue="Go Test.TestPerimeter in github.com/keigodasu/learn-go-with-tests/structs-methods-interfaces" />
+        <item itemvalue="Go Test.TestSumAllTails in github.com/keigodasu/learn-go-with-tests/arrays-and-slices" />
+        <item itemvalue="Go Test.TestSumAll in github.com/keigodasu/learn-go-with-tests/arrays-and-slices" />
       </list>
     </recent_temporary>
   </component>
@@ -84,29 +108,41 @@
     <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="773" y="534" key="#com.intellij.ide.util.MemberChooser" timestamp="1609987714957">
+      <screen x="0" y="23" width="3840" height="1577" />
+    </state>
+    <state x="773" y="534" key="#com.intellij.ide.util.MemberChooser/0.23.3840.1577@0.23.3840.1577" timestamp="1609987714957" />
     <state x="625" y="596" key="EditFileWatcherDialog" timestamp="1609937374943">
       <screen x="0" y="23" width="3840" height="1577" />
     </state>
     <state x="625" y="596" key="EditFileWatcherDialog/0.23.3840.1577@0.23.3840.1577" timestamp="1609937374943" />
-    <state width="1878" height="462" key="GridCell.Tab.0.bottom" timestamp="1609937569287">
+    <state width="1878" height="462" key="GridCell.Tab.0.bottom" timestamp="1609988899454">
       <screen x="0" y="23" width="3840" height="1577" />
     </state>
-    <state width="1878" height="462" key="GridCell.Tab.0.bottom/0.23.3840.1577@0.23.3840.1577" timestamp="1609937569287" />
-    <state width="1878" height="462" key="GridCell.Tab.0.center" timestamp="1609937569287">
+    <state width="1878" height="462" key="GridCell.Tab.0.bottom/0.23.3840.1577@0.23.3840.1577" timestamp="1609988899454" />
+    <state width="1878" height="462" key="GridCell.Tab.0.center" timestamp="1609988899453">
       <screen x="0" y="23" width="3840" height="1577" />
     </state>
-    <state width="1878" height="462" key="GridCell.Tab.0.center/0.23.3840.1577@0.23.3840.1577" timestamp="1609937569287" />
-    <state width="1878" height="462" key="GridCell.Tab.0.left" timestamp="1609937569286">
+    <state width="1878" height="462" key="GridCell.Tab.0.center/0.23.3840.1577@0.23.3840.1577" timestamp="1609988899453" />
+    <state width="1878" height="462" key="GridCell.Tab.0.left" timestamp="1609988899453">
       <screen x="0" y="23" width="3840" height="1577" />
     </state>
-    <state width="1878" height="462" key="GridCell.Tab.0.left/0.23.3840.1577@0.23.3840.1577" timestamp="1609937569286" />
-    <state width="1878" height="462" key="GridCell.Tab.0.right" timestamp="1609937569287">
+    <state width="1878" height="462" key="GridCell.Tab.0.left/0.23.3840.1577@0.23.3840.1577" timestamp="1609988899453" />
+    <state width="1878" height="462" key="GridCell.Tab.0.right" timestamp="1609988899453">
       <screen x="0" y="23" width="3840" height="1577" />
     </state>
-    <state width="1878" height="462" key="GridCell.Tab.0.right/0.23.3840.1577@0.23.3840.1577" timestamp="1609937569287" />
-    <state x="469" y="450" key="SettingsEditor" timestamp="1609937376524">
+    <state width="1878" height="462" key="GridCell.Tab.0.right/0.23.3840.1577@0.23.3840.1577" timestamp="1609988899453" />
+    <state x="469" y="450" key="SettingsEditor" timestamp="1609939222477">
       <screen x="0" y="23" width="3840" height="1577" />
     </state>
-    <state x="469" y="450" key="SettingsEditor/0.23.3840.1577@0.23.3840.1577" timestamp="1609937376524" />
+    <state x="469" y="450" key="SettingsEditor/0.23.3840.1577@0.23.3840.1577" timestamp="1609939222477" />
+    <state x="765" y="732" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1609984007330">
+      <screen x="0" y="23" width="3840" height="1577" />
+    </state>
+    <state x="765" y="732" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.23.3840.1577@0.23.3840.1577" timestamp="1609984007330" />
+    <state x="625" y="388" width="670" height="676" key="search.everywhere.popup" timestamp="1609938689697">
+      <screen x="0" y="23" width="3840" height="1577" />
+    </state>
+    <state x="625" y="388" width="670" height="676" key="search.everywhere.popup/0.23.3840.1577@0.23.3840.1577" timestamp="1609938689697" />
   </component>
 </project>
