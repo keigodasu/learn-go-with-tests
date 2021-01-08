@@ -35,71 +35,71 @@
     <property name="go.import.settings.migrated" value="true" />
     <property name="go.sdk.automatically.set" value="true" />
     <property name="last_opened_file_path" value="$USER_HOME$" />
-    <property name="settings.editor.selected.configurable" value="watcher.settings" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
-  <component name="RunManager" selected="Go Test.TestArea in github.com/keigodasu/learn-go-with-tests/structs-methods-interfaces">
-    <configuration name="TestArea in github.com/keigodasu/learn-go-with-tests/structs-methods-interfaces" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Go Test.TestGreet in github.com/keigodasu/learn-go-with-tests/dependency-injection">
+    <configuration name="TestAdd in github.com/keigodasu/learn-go-with-tests/maps" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
       <module name="learn-go-with-tests" />
-      <working_directory value="$PROJECT_DIR$/structs-methods-interfaces" />
+      <working_directory value="$PROJECT_DIR$/maps" />
       <framework value="gotest" />
       <kind value="PACKAGE" />
-      <package value="github.com/keigodasu/learn-go-with-tests/structs-methods-interfaces" />
+      <package value="github.com/keigodasu/learn-go-with-tests/maps" />
       <directory value="$PROJECT_DIR$" />
       <filePath value="$PROJECT_DIR$" />
-      <pattern value="^TestArea$" />
+      <pattern value="^TestAdd$" />
       <method v="2" />
     </configuration>
-    <configuration name="TestArea/circles in github.com/keigodasu/learn-go-with-tests/structs-methods-interfaces" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+    <configuration name="TestGreet in github.com/keigodasu/learn-go-with-tests/dependency-injection" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
       <module name="learn-go-with-tests" />
-      <working_directory value="$PROJECT_DIR$/structs-methods-interfaces" />
+      <working_directory value="$PROJECT_DIR$/dependency-injection" />
       <framework value="gotest" />
       <kind value="PACKAGE" />
-      <package value="github.com/keigodasu/learn-go-with-tests/structs-methods-interfaces" />
+      <package value="github.com/keigodasu/learn-go-with-tests/dependency-injection" />
       <directory value="$PROJECT_DIR$" />
       <filePath value="$PROJECT_DIR$" />
-      <pattern value="^TestArea$/^circles$" />
+      <pattern value="^TestGreet$" />
       <method v="2" />
     </configuration>
-    <configuration name="TestPerimeter in github.com/keigodasu/learn-go-with-tests/structs-methods-interfaces" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+    <configuration name="TestSearch in github.com/keigodasu/learn-go-with-tests/maps" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
       <module name="learn-go-with-tests" />
-      <working_directory value="$PROJECT_DIR$/structs-methods-interfaces" />
+      <working_directory value="$PROJECT_DIR$/maps" />
       <framework value="gotest" />
       <kind value="PACKAGE" />
-      <package value="github.com/keigodasu/learn-go-with-tests/structs-methods-interfaces" />
+      <package value="github.com/keigodasu/learn-go-with-tests/maps" />
       <directory value="$PROJECT_DIR$" />
       <filePath value="$PROJECT_DIR$" />
-      <pattern value="^TestPerimeter$" />
+      <pattern value="^TestSearch$" />
       <method v="2" />
     </configuration>
-    <configuration name="TestSumAll in github.com/keigodasu/learn-go-with-tests/arrays-and-slices" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+    <configuration name="TestUpdate in github.com/keigodasu/learn-go-with-tests/maps" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
       <module name="learn-go-with-tests" />
-      <working_directory value="$PROJECT_DIR$/arrays-and-slices" />
+      <working_directory value="$PROJECT_DIR$/maps" />
       <framework value="gotest" />
       <kind value="PACKAGE" />
-      <package value="github.com/keigodasu/learn-go-with-tests/arrays-and-slices" />
+      <package value="github.com/keigodasu/learn-go-with-tests/maps" />
       <directory value="$PROJECT_DIR$" />
       <filePath value="$PROJECT_DIR$" />
-      <pattern value="^TestSumAll$" />
+      <pattern value="^TestUpdate$" />
       <method v="2" />
     </configuration>
-    <configuration name="TestSumAllTails in github.com/keigodasu/learn-go-with-tests/arrays-and-slices" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+    <configuration name="TestWallet in github.com/keigodasu/learn-go-with-tests/pointers-and-errors" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
       <module name="learn-go-with-tests" />
-      <working_directory value="$PROJECT_DIR$/arrays-and-slices" />
+      <working_directory value="$PROJECT_DIR$/pointers-and-errors" />
       <framework value="gotest" />
       <kind value="PACKAGE" />
-      <package value="github.com/keigodasu/learn-go-with-tests/arrays-and-slices" />
+      <package value="github.com/keigodasu/learn-go-with-tests/pointers-and-errors" />
       <directory value="$PROJECT_DIR$" />
       <filePath value="$PROJECT_DIR$" />
-      <pattern value="^TestSumAllTails$" />
+      <pattern value="^TestWallet$" />
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Go Test.TestArea in github.com/keigodasu/learn-go-with-tests/structs-methods-interfaces" />
-        <item itemvalue="Go Test.TestArea/circles in github.com/keigodasu/learn-go-with-tests/structs-methods-interfaces" />
-        <item itemvalue="Go Test.TestPerimeter in github.com/keigodasu/learn-go-with-tests/structs-methods-interfaces" />
-        <item itemvalue="Go Test.TestSumAllTails in github.com/keigodasu/learn-go-with-tests/arrays-and-slices" />
-        <item itemvalue="Go Test.TestSumAll in github.com/keigodasu/learn-go-with-tests/arrays-and-slices" />
+        <item itemvalue="Go Test.TestGreet in github.com/keigodasu/learn-go-with-tests/dependency-injection" />
+        <item itemvalue="Go Test.TestUpdate in github.com/keigodasu/learn-go-with-tests/maps" />
+        <item itemvalue="Go Test.TestAdd in github.com/keigodasu/learn-go-with-tests/maps" />
+        <item itemvalue="Go Test.TestSearch in github.com/keigodasu/learn-go-with-tests/maps" />
+        <item itemvalue="Go Test.TestWallet in github.com/keigodasu/learn-go-with-tests/pointers-and-errors" />
       </list>
     </recent_temporary>
   </component>
@@ -116,26 +116,26 @@
       <screen x="0" y="23" width="3840" height="1577" />
     </state>
     <state x="625" y="596" key="EditFileWatcherDialog/0.23.3840.1577@0.23.3840.1577" timestamp="1609937374943" />
-    <state width="1878" height="462" key="GridCell.Tab.0.bottom" timestamp="1609988899454">
+    <state width="1878" height="462" key="GridCell.Tab.0.bottom" timestamp="1610080546714">
       <screen x="0" y="23" width="3840" height="1577" />
     </state>
-    <state width="1878" height="462" key="GridCell.Tab.0.bottom/0.23.3840.1577@0.23.3840.1577" timestamp="1609988899454" />
-    <state width="1878" height="462" key="GridCell.Tab.0.center" timestamp="1609988899453">
+    <state width="1878" height="462" key="GridCell.Tab.0.bottom/0.23.3840.1577@0.23.3840.1577" timestamp="1610080546714" />
+    <state width="1878" height="462" key="GridCell.Tab.0.center" timestamp="1610080546713">
       <screen x="0" y="23" width="3840" height="1577" />
     </state>
-    <state width="1878" height="462" key="GridCell.Tab.0.center/0.23.3840.1577@0.23.3840.1577" timestamp="1609988899453" />
-    <state width="1878" height="462" key="GridCell.Tab.0.left" timestamp="1609988899453">
+    <state width="1878" height="462" key="GridCell.Tab.0.center/0.23.3840.1577@0.23.3840.1577" timestamp="1610080546713" />
+    <state width="1878" height="462" key="GridCell.Tab.0.left" timestamp="1610080546712">
       <screen x="0" y="23" width="3840" height="1577" />
     </state>
-    <state width="1878" height="462" key="GridCell.Tab.0.left/0.23.3840.1577@0.23.3840.1577" timestamp="1609988899453" />
-    <state width="1878" height="462" key="GridCell.Tab.0.right" timestamp="1609988899453">
+    <state width="1878" height="462" key="GridCell.Tab.0.left/0.23.3840.1577@0.23.3840.1577" timestamp="1610080546712" />
+    <state width="1878" height="462" key="GridCell.Tab.0.right" timestamp="1610080546713">
       <screen x="0" y="23" width="3840" height="1577" />
     </state>
-    <state width="1878" height="462" key="GridCell.Tab.0.right/0.23.3840.1577@0.23.3840.1577" timestamp="1609988899453" />
-    <state x="469" y="450" key="SettingsEditor" timestamp="1609939222477">
+    <state width="1878" height="462" key="GridCell.Tab.0.right/0.23.3840.1577@0.23.3840.1577" timestamp="1610080546713" />
+    <state x="469" y="450" key="SettingsEditor" timestamp="1610076831940">
       <screen x="0" y="23" width="3840" height="1577" />
     </state>
-    <state x="469" y="450" key="SettingsEditor/0.23.3840.1577@0.23.3840.1577" timestamp="1609939222477" />
+    <state x="469" y="450" key="SettingsEditor/0.23.3840.1577@0.23.3840.1577" timestamp="1610076831940" />
     <state x="765" y="732" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1609984007330">
       <screen x="0" y="23" width="3840" height="1577" />
     </state>
