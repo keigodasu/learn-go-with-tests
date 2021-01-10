@@ -37,69 +37,69 @@
     <property name="last_opened_file_path" value="$USER_HOME$" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
-  <component name="RunManager" selected="Go Test.TestGreet in github.com/keigodasu/learn-go-with-tests/dependency-injection">
-    <configuration name="TestAdd in github.com/keigodasu/learn-go-with-tests/maps" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Go Test.TestWalk in github.com/keigodasu/learn-go-with-tests/reflection">
+    <configuration name="BenchmarkCheckWebsites in github.com/keigodasu/learn-go-with-tests/concurrency" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
       <module name="learn-go-with-tests" />
-      <working_directory value="$PROJECT_DIR$/maps" />
-      <framework value="gotest" />
+      <working_directory value="$PROJECT_DIR$/concurrency" />
+      <framework value="gobench" />
       <kind value="PACKAGE" />
-      <package value="github.com/keigodasu/learn-go-with-tests/maps" />
+      <package value="github.com/keigodasu/learn-go-with-tests/concurrency" />
       <directory value="$PROJECT_DIR$" />
       <filePath value="$PROJECT_DIR$" />
-      <pattern value="^TestAdd$" />
+      <pattern value="^BenchmarkCheckWebsites$" />
       <method v="2" />
     </configuration>
-    <configuration name="TestGreet in github.com/keigodasu/learn-go-with-tests/dependency-injection" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+    <configuration name="TestCheckWebsites in github.com/keigodasu/learn-go-with-tests/concurrency" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
       <module name="learn-go-with-tests" />
-      <working_directory value="$PROJECT_DIR$/dependency-injection" />
+      <working_directory value="$PROJECT_DIR$/concurrency" />
       <framework value="gotest" />
       <kind value="PACKAGE" />
-      <package value="github.com/keigodasu/learn-go-with-tests/dependency-injection" />
+      <package value="github.com/keigodasu/learn-go-with-tests/concurrency" />
       <directory value="$PROJECT_DIR$" />
       <filePath value="$PROJECT_DIR$" />
-      <pattern value="^TestGreet$" />
+      <pattern value="^TestCheckWebsites$" />
       <method v="2" />
     </configuration>
-    <configuration name="TestSearch in github.com/keigodasu/learn-go-with-tests/maps" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+    <configuration name="TestDumbGetter in github.com/keigodasu/learn-go-with-tests/error-types" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
       <module name="learn-go-with-tests" />
-      <working_directory value="$PROJECT_DIR$/maps" />
+      <working_directory value="$PROJECT_DIR$/error-types" />
       <framework value="gotest" />
       <kind value="PACKAGE" />
-      <package value="github.com/keigodasu/learn-go-with-tests/maps" />
+      <package value="github.com/keigodasu/learn-go-with-tests/error-types" />
       <directory value="$PROJECT_DIR$" />
       <filePath value="$PROJECT_DIR$" />
-      <pattern value="^TestSearch$" />
+      <pattern value="^TestDumbGetter$" />
       <method v="2" />
     </configuration>
-    <configuration name="TestUpdate in github.com/keigodasu/learn-go-with-tests/maps" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+    <configuration name="TestRacer in github.com/keigodasu/learn-go-with-tests/select" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
       <module name="learn-go-with-tests" />
-      <working_directory value="$PROJECT_DIR$/maps" />
+      <working_directory value="$PROJECT_DIR$/select" />
       <framework value="gotest" />
       <kind value="PACKAGE" />
-      <package value="github.com/keigodasu/learn-go-with-tests/maps" />
+      <package value="github.com/keigodasu/learn-go-with-tests/select" />
       <directory value="$PROJECT_DIR$" />
       <filePath value="$PROJECT_DIR$" />
-      <pattern value="^TestUpdate$" />
+      <pattern value="^TestRacer$" />
       <method v="2" />
     </configuration>
-    <configuration name="TestWallet in github.com/keigodasu/learn-go-with-tests/pointers-and-errors" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+    <configuration name="TestWalk in github.com/keigodasu/learn-go-with-tests/reflection" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
       <module name="learn-go-with-tests" />
-      <working_directory value="$PROJECT_DIR$/pointers-and-errors" />
+      <working_directory value="$PROJECT_DIR$/reflection" />
       <framework value="gotest" />
       <kind value="PACKAGE" />
-      <package value="github.com/keigodasu/learn-go-with-tests/pointers-and-errors" />
+      <package value="github.com/keigodasu/learn-go-with-tests/reflection" />
       <directory value="$PROJECT_DIR$" />
       <filePath value="$PROJECT_DIR$" />
-      <pattern value="^TestWallet$" />
+      <pattern value="^TestWalk$" />
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Go Test.TestGreet in github.com/keigodasu/learn-go-with-tests/dependency-injection" />
-        <item itemvalue="Go Test.TestUpdate in github.com/keigodasu/learn-go-with-tests/maps" />
-        <item itemvalue="Go Test.TestAdd in github.com/keigodasu/learn-go-with-tests/maps" />
-        <item itemvalue="Go Test.TestSearch in github.com/keigodasu/learn-go-with-tests/maps" />
-        <item itemvalue="Go Test.TestWallet in github.com/keigodasu/learn-go-with-tests/pointers-and-errors" />
+        <item itemvalue="Go Test.TestWalk in github.com/keigodasu/learn-go-with-tests/reflection" />
+        <item itemvalue="Go Test.TestDumbGetter in github.com/keigodasu/learn-go-with-tests/error-types" />
+        <item itemvalue="Go Test.TestRacer in github.com/keigodasu/learn-go-with-tests/select" />
+        <item itemvalue="Go Test.BenchmarkCheckWebsites in github.com/keigodasu/learn-go-with-tests/concurrency" />
+        <item itemvalue="Go Test.TestCheckWebsites in github.com/keigodasu/learn-go-with-tests/concurrency" />
       </list>
     </recent_temporary>
   </component>
@@ -116,22 +116,26 @@
       <screen x="0" y="23" width="3840" height="1577" />
     </state>
     <state x="625" y="596" key="EditFileWatcherDialog/0.23.3840.1577@0.23.3840.1577" timestamp="1609937374943" />
-    <state width="1878" height="462" key="GridCell.Tab.0.bottom" timestamp="1610080546714">
+    <state width="1878" height="303" key="GridCell.Tab.0.bottom" timestamp="1610245110409">
       <screen x="0" y="23" width="3840" height="1577" />
     </state>
-    <state width="1878" height="462" key="GridCell.Tab.0.bottom/0.23.3840.1577@0.23.3840.1577" timestamp="1610080546714" />
-    <state width="1878" height="462" key="GridCell.Tab.0.center" timestamp="1610080546713">
+    <state width="854" height="303" key="GridCell.Tab.0.bottom/0.23.1792.1097@0.23.1792.1097" timestamp="1610101704461" />
+    <state width="1878" height="303" key="GridCell.Tab.0.bottom/0.23.3840.1577@0.23.3840.1577" timestamp="1610245110409" />
+    <state width="1878" height="303" key="GridCell.Tab.0.center" timestamp="1610245110409">
       <screen x="0" y="23" width="3840" height="1577" />
     </state>
-    <state width="1878" height="462" key="GridCell.Tab.0.center/0.23.3840.1577@0.23.3840.1577" timestamp="1610080546713" />
-    <state width="1878" height="462" key="GridCell.Tab.0.left" timestamp="1610080546712">
+    <state width="854" height="303" key="GridCell.Tab.0.center/0.23.1792.1097@0.23.1792.1097" timestamp="1610101704460" />
+    <state width="1878" height="303" key="GridCell.Tab.0.center/0.23.3840.1577@0.23.3840.1577" timestamp="1610245110409" />
+    <state width="1878" height="303" key="GridCell.Tab.0.left" timestamp="1610245110408">
       <screen x="0" y="23" width="3840" height="1577" />
     </state>
-    <state width="1878" height="462" key="GridCell.Tab.0.left/0.23.3840.1577@0.23.3840.1577" timestamp="1610080546712" />
-    <state width="1878" height="462" key="GridCell.Tab.0.right" timestamp="1610080546713">
+    <state width="854" height="303" key="GridCell.Tab.0.left/0.23.1792.1097@0.23.1792.1097" timestamp="1610101704459" />
+    <state width="1878" height="303" key="GridCell.Tab.0.left/0.23.3840.1577@0.23.3840.1577" timestamp="1610245110408" />
+    <state width="1878" height="303" key="GridCell.Tab.0.right" timestamp="1610245110409">
       <screen x="0" y="23" width="3840" height="1577" />
     </state>
-    <state width="1878" height="462" key="GridCell.Tab.0.right/0.23.3840.1577@0.23.3840.1577" timestamp="1610080546713" />
+    <state width="854" height="303" key="GridCell.Tab.0.right/0.23.1792.1097@0.23.1792.1097" timestamp="1610101704460" />
+    <state width="1878" height="303" key="GridCell.Tab.0.right/0.23.3840.1577@0.23.3840.1577" timestamp="1610245110409" />
     <state x="469" y="450" key="SettingsEditor" timestamp="1610076831940">
       <screen x="0" y="23" width="3840" height="1577" />
     </state>
@@ -140,9 +144,10 @@
       <screen x="0" y="23" width="3840" height="1577" />
     </state>
     <state x="765" y="732" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.23.3840.1577@0.23.3840.1577" timestamp="1609984007330" />
-    <state x="625" y="388" width="670" height="676" key="search.everywhere.popup" timestamp="1609938689697">
-      <screen x="0" y="23" width="3840" height="1577" />
+    <state x="292" y="277" width="670" height="471" key="search.everywhere.popup" timestamp="1610101352143">
+      <screen x="0" y="23" width="1792" height="1097" />
     </state>
+    <state x="292" y="277" width="670" height="471" key="search.everywhere.popup/0.23.1792.1097@0.23.1792.1097" timestamp="1610101352143" />
     <state x="625" y="388" width="670" height="676" key="search.everywhere.popup/0.23.3840.1577@0.23.3840.1577" timestamp="1609938689697" />
   </component>
 </project>
