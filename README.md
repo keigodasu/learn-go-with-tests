@@ -15,8 +15,8 @@ https://quii.gitbook.io/learn-go-with-tests/
 - [x] Concurrency
 - [x] Select
 - [x] Reflection
-- [ ] Sync
-- [ ] Context
+- [x] Sync
+- [x] Context
 - [ ] Intro to property based tests
 - [ ] Maths
 - [ ] HTTP server
