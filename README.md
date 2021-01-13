@@ -17,7 +17,7 @@ https://quii.gitbook.io/learn-go-with-tests/
 - [x] Reflection
 - [x] Sync
 - [x] Context
-- [ ] Intro to property based tests
+- [x] Intro to property based tests
 - [ ] Maths
 - [ ] HTTP server
 - [ ] JSON,routing and embedding
