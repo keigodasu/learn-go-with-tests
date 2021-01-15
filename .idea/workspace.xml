@@ -1,8 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="510be360-d373-4f74-a83c-97040e9013d5" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/http-server/in_memory_player_store.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/http-server/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/http-server/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/http-server/server.go" beforeDir="false" afterPath="$PROJECT_DIR$/http-server/server.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/http-server/server_integration_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/http-server/server_integration_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/http-server/server_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/http-server/server_test.go" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,69 +60,69 @@
     <property name="last_opened_file_path" value="$USER_HOME$" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
-  <component name="RunManager" selected="Go Test.TestWalk in github.com/keigodasu/learn-go-with-tests/reflection">
-    <configuration name="BenchmarkCheckWebsites in github.com/keigodasu/learn-go-with-tests/concurrency" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Go Test.TestFileSystemStore/league_sorted in github.com/keigodasu/learn-go-with-tests/http-server">
+    <configuration name="TestFileSystemStore/league_sorted in github.com/keigodasu/learn-go-with-tests/http-server" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
       <module name="learn-go-with-tests" />
-      <working_directory value="$PROJECT_DIR$/concurrency" />
-      <framework value="gobench" />
-      <kind value="PACKAGE" />
-      <package value="github.com/keigodasu/learn-go-with-tests/concurrency" />
-      <directory value="$PROJECT_DIR$" />
-      <filePath value="$PROJECT_DIR$" />
-      <pattern value="^BenchmarkCheckWebsites$" />
-      <method v="2" />
-    </configuration>
-    <configuration name="TestCheckWebsites in github.com/keigodasu/learn-go-with-tests/concurrency" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
-      <module name="learn-go-with-tests" />
-      <working_directory value="$PROJECT_DIR$/concurrency" />
+      <working_directory value="$PROJECT_DIR$/http-server" />
       <framework value="gotest" />
       <kind value="PACKAGE" />
-      <package value="github.com/keigodasu/learn-go-with-tests/concurrency" />
+      <package value="github.com/keigodasu/learn-go-with-tests/http-server" />
       <directory value="$PROJECT_DIR$" />
       <filePath value="$PROJECT_DIR$" />
-      <pattern value="^TestCheckWebsites$" />
+      <pattern value="^TestFileSystemStore$/^league_sorted$" />
       <method v="2" />
     </configuration>
-    <configuration name="TestDumbGetter in github.com/keigodasu/learn-go-with-tests/error-types" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+    <configuration name="TestFileSystemStore/store_wins_for_new_players in github.com/keigodasu/learn-go-with-tests/http-server" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
       <module name="learn-go-with-tests" />
-      <working_directory value="$PROJECT_DIR$/error-types" />
+      <working_directory value="$PROJECT_DIR$/http-server" />
       <framework value="gotest" />
       <kind value="PACKAGE" />
-      <package value="github.com/keigodasu/learn-go-with-tests/error-types" />
+      <package value="github.com/keigodasu/learn-go-with-tests/http-server" />
       <directory value="$PROJECT_DIR$" />
       <filePath value="$PROJECT_DIR$" />
-      <pattern value="^TestDumbGetter$" />
+      <pattern value="^TestFileSystemStore$/^store_wins_for_new_players$" />
       <method v="2" />
     </configuration>
-    <configuration name="TestRacer in github.com/keigodasu/learn-go-with-tests/select" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+    <configuration name="TestFileSystemStore/works_with_an_empty_file in github.com/keigodasu/learn-go-with-tests/http-server" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
       <module name="learn-go-with-tests" />
-      <working_directory value="$PROJECT_DIR$/select" />
+      <working_directory value="$PROJECT_DIR$/http-server" />
       <framework value="gotest" />
       <kind value="PACKAGE" />
-      <package value="github.com/keigodasu/learn-go-with-tests/select" />
+      <package value="github.com/keigodasu/learn-go-with-tests/http-server" />
       <directory value="$PROJECT_DIR$" />
       <filePath value="$PROJECT_DIR$" />
-      <pattern value="^TestRacer$" />
+      <pattern value="^TestFileSystemStore$/^works_with_an_empty_file$" />
       <method v="2" />
     </configuration>
-    <configuration name="TestWalk in github.com/keigodasu/learn-go-with-tests/reflection" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+    <configuration name="TestRecordWinsAndRetrievingThem in github.com/keigodasu/learn-go-with-tests/http-server" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
       <module name="learn-go-with-tests" />
-      <working_directory value="$PROJECT_DIR$/reflection" />
+      <working_directory value="$PROJECT_DIR$/http-server" />
       <framework value="gotest" />
       <kind value="PACKAGE" />
-      <package value="github.com/keigodasu/learn-go-with-tests/reflection" />
+      <package value="github.com/keigodasu/learn-go-with-tests/http-server" />
       <directory value="$PROJECT_DIR$" />
       <filePath value="$PROJECT_DIR$" />
-      <pattern value="^TestWalk$" />
+      <pattern value="^TestRecordWinsAndRetrievingThem$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TestTape_Write in github.com/keigodasu/learn-go-with-tests/http-server" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="learn-go-with-tests" />
+      <working_directory value="$PROJECT_DIR$/http-server" />
+      <framework value="gotest" />
+      <kind value="PACKAGE" />
+      <package value="github.com/keigodasu/learn-go-with-tests/http-server" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$" />
+      <pattern value="^TestTape_Write$" />
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Go Test.TestWalk in github.com/keigodasu/learn-go-with-tests/reflection" />
-        <item itemvalue="Go Test.TestDumbGetter in github.com/keigodasu/learn-go-with-tests/error-types" />
-        <item itemvalue="Go Test.TestRacer in github.com/keigodasu/learn-go-with-tests/select" />
-        <item itemvalue="Go Test.BenchmarkCheckWebsites in github.com/keigodasu/learn-go-with-tests/concurrency" />
-        <item itemvalue="Go Test.TestCheckWebsites in github.com/keigodasu/learn-go-with-tests/concurrency" />
+        <item itemvalue="Go Test.TestFileSystemStore/league_sorted in github.com/keigodasu/learn-go-with-tests/http-server" />
+        <item itemvalue="Go Test.TestFileSystemStore/works_with_an_empty_file in github.com/keigodasu/learn-go-with-tests/http-server" />
+        <item itemvalue="Go Test.TestRecordWinsAndRetrievingThem in github.com/keigodasu/learn-go-with-tests/http-server" />
+        <item itemvalue="Go Test.TestTape_Write in github.com/keigodasu/learn-go-with-tests/http-server" />
+        <item itemvalue="Go Test.TestFileSystemStore/store_wins_for_new_players in github.com/keigodasu/learn-go-with-tests/http-server" />
       </list>
     </recent_temporary>
   </component>
@@ -107,39 +130,66 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="WindowStateProjectService">
-    <state x="773" y="534" key="#com.intellij.ide.util.MemberChooser" timestamp="1609987714957">
+    <state x="773" y="534" key="#com.intellij.ide.util.MemberChooser" timestamp="1610579948158">
       <screen x="0" y="23" width="3840" height="1577" />
     </state>
-    <state x="773" y="534" key="#com.intellij.ide.util.MemberChooser/0.23.3840.1577@0.23.3840.1577" timestamp="1609987714957" />
+    <state x="773" y="534" key="#com.intellij.ide.util.MemberChooser/0.23.3840.1577@0.23.3840.1577" timestamp="1610579948158" />
     <state x="625" y="596" key="EditFileWatcherDialog" timestamp="1609937374943">
       <screen x="0" y="23" width="3840" height="1577" />
     </state>
     <state x="625" y="596" key="EditFileWatcherDialog/0.23.3840.1577@0.23.3840.1577" timestamp="1609937374943" />
-    <state width="1878" height="303" key="GridCell.Tab.0.bottom" timestamp="1610245110409">
+    <state width="1878" height="303" key="GridCell.Tab.0.bottom" timestamp="1610683489682">
       <screen x="0" y="23" width="3840" height="1577" />
     </state>
     <state width="854" height="303" key="GridCell.Tab.0.bottom/0.23.1792.1097@0.23.1792.1097" timestamp="1610101704461" />
-    <state width="1878" height="303" key="GridCell.Tab.0.bottom/0.23.3840.1577@0.23.3840.1577" timestamp="1610245110409" />
-    <state width="1878" height="303" key="GridCell.Tab.0.center" timestamp="1610245110409">
+    <state width="1878" height="303" key="GridCell.Tab.0.bottom/0.23.3840.1577@0.23.3840.1577" timestamp="1610683489682" />
+    <state width="1878" height="303" key="GridCell.Tab.0.center" timestamp="1610683489682">
       <screen x="0" y="23" width="3840" height="1577" />
     </state>
     <state width="854" height="303" key="GridCell.Tab.0.center/0.23.1792.1097@0.23.1792.1097" timestamp="1610101704460" />
-    <state width="1878" height="303" key="GridCell.Tab.0.center/0.23.3840.1577@0.23.3840.1577" timestamp="1610245110409" />
-    <state width="1878" height="303" key="GridCell.Tab.0.left" timestamp="1610245110408">
+    <state width="1878" height="303" key="GridCell.Tab.0.center/0.23.3840.1577@0.23.3840.1577" timestamp="1610683489682" />
+    <state width="1878" height="303" key="GridCell.Tab.0.left" timestamp="1610683489681">
       <screen x="0" y="23" width="3840" height="1577" />
     </state>
     <state width="854" height="303" key="GridCell.Tab.0.left/0.23.1792.1097@0.23.1792.1097" timestamp="1610101704459" />
-    <state width="1878" height="303" key="GridCell.Tab.0.left/0.23.3840.1577@0.23.3840.1577" timestamp="1610245110408" />
-    <state width="1878" height="303" key="GridCell.Tab.0.right" timestamp="1610245110409">
+    <state width="1878" height="303" key="GridCell.Tab.0.left/0.23.3840.1577@0.23.3840.1577" timestamp="1610683489681" />
+    <state width="1878" height="303" key="GridCell.Tab.0.right" timestamp="1610683489682">
       <screen x="0" y="23" width="3840" height="1577" />
     </state>
     <state width="854" height="303" key="GridCell.Tab.0.right/0.23.1792.1097@0.23.1792.1097" timestamp="1610101704460" />
-    <state width="1878" height="303" key="GridCell.Tab.0.right/0.23.3840.1577@0.23.3840.1577" timestamp="1610245110409" />
-    <state x="469" y="450" key="SettingsEditor" timestamp="1610076831940">
+    <state width="1878" height="303" key="GridCell.Tab.0.right/0.23.3840.1577@0.23.3840.1577" timestamp="1610683489682" />
+    <state width="1878" height="566" key="GridCell.Tab.1.bottom" timestamp="1610540844216">
       <screen x="0" y="23" width="3840" height="1577" />
     </state>
-    <state x="469" y="450" key="SettingsEditor/0.23.3840.1577@0.23.3840.1577" timestamp="1610076831940" />
+    <state width="1878" height="566" key="GridCell.Tab.1.bottom/0.23.3840.1577@0.23.3840.1577" timestamp="1610540844216" />
+    <state width="1878" height="566" key="GridCell.Tab.1.center" timestamp="1610540844216">
+      <screen x="0" y="23" width="3840" height="1577" />
+    </state>
+    <state width="1878" height="566" key="GridCell.Tab.1.center/0.23.3840.1577@0.23.3840.1577" timestamp="1610540844216" />
+    <state width="1878" height="566" key="GridCell.Tab.1.left" timestamp="1610540844216">
+      <screen x="0" y="23" width="3840" height="1577" />
+    </state>
+    <state width="1878" height="566" key="GridCell.Tab.1.left/0.23.3840.1577@0.23.3840.1577" timestamp="1610540844216" />
+    <state width="1878" height="566" key="GridCell.Tab.1.right" timestamp="1610540844216">
+      <screen x="0" y="23" width="3840" height="1577" />
+    </state>
+    <state width="1878" height="566" key="GridCell.Tab.1.right/0.23.3840.1577@0.23.3840.1577" timestamp="1610540844216" />
+    <state x="469" y="450" key="SettingsEditor" timestamp="1610579220183">
+      <screen x="0" y="23" width="3840" height="1577" />
+    </state>
+    <state x="469" y="450" key="SettingsEditor/0.23.3840.1577@0.23.3840.1577" timestamp="1610579220183" />
     <state x="765" y="732" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1609984007330">
       <screen x="0" y="23" width="3840" height="1577" />
     </state>
