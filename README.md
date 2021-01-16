@@ -19,9 +19,9 @@ https://quii.gitbook.io/learn-go-with-tests/
 - [x] Context
 - [x] Intro to property based tests
 - [ ] Maths
-- [ ] HTTP server
-- [ ] JSON,routing and embedding
-- [ ] IO and sorting
+- [x] HTTP server
+- [x] JSON,routing and embedding
+- [x] IO and sorting
 - [ ] Command line & package structure
 - [ ] Time
 - [ ] WebSockets
