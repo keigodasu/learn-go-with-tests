@@ -22,7 +22,7 @@ https://quii.gitbook.io/learn-go-with-tests/
 - [x] HTTP server
 - [x] JSON,routing and embedding
 - [x] IO and sorting
-- [ ] Command line & package structure
+- [x] Command line & package structure
 - [ ] Time
 - [ ] WebSockets
 - [ ] OS Exec
